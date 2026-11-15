@@ -18,7 +18,7 @@ My experience includes **Playwright, Cypress, Selenium, Maestro, API Testing, an
 - Page Object Model · Data-Driven Testing
 
 **Languages**
-- TypeScript · JavaScript · Java · C# · Kotlin
+- TypeScript · JavaScript · Java 
 
 **API & Performance Testing**
 - Postman · REST Assured · JMeter
@@ -69,6 +69,7 @@ An API automation project focused on schema validation, negative testing, authen
 Explore my existing Java and software testing repositories, including [HepsiburadaCaseStudy](https://github.com/nurayttumer/HepsiburadaCaseStudy).
 
 ---
+🚀 New Projects Coming Soon... Stay Tuned!
 
 ### 🎯 Current Focus
 
